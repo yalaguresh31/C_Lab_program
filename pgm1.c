@@ -3,6 +3,7 @@
 //Include necessary headers
 #include<stdio.h>
 #include<stdlib.h>
+#include<math.h>
 int main(){
 
     //Declare all variables
@@ -28,6 +29,10 @@ int main(){
        break;
     case '/' : result = num1 / num2;
        break;
+    case '%' : result = num1 % num2;
+    break;
+    case '$' : result = pow(num1,num2);
+    break;
     default : printf("your enter the wrong operator\n");
         
         exit(0);
