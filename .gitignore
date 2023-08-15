@@ -1,1 +1,5 @@
-.pgm2.c
+*.exe
+*.java
+linked.c
+.vscode
+
