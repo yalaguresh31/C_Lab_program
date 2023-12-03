@@ -1,6 +1,6 @@
 //pointers
 
-#include<math.h>
+
 void main(){
 
 float a[10],*ptr,mean,std,sumstd =0,sum = 0;
