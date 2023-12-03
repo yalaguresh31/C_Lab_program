@@ -1,9 +1,7 @@
 //simulation of a simple calculator
 
 //Include necessary headers
-#include<stdio.h>
-#include<stdlib.h>
-#include<math.h>
+
 int main(){
 
     //Declare all variables
